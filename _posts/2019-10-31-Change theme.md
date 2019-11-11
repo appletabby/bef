@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Jekyll更換佈景主題"
-img: alaska.jpg # Add image post (optional)
+img: bora-bora.jpg # Add image post (optional)
 date: 2019-10-31 12:55:00 +0300
 tag: [Jekyll, Programing, GitHub]
 ---
