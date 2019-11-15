@@ -2,7 +2,7 @@
 layout: post
 title: "Speed dating快速面試記錄"
 img: himalayan.jpg # Add image post (optional)
-date: 2019-11-13 12:55:00 +0300
+date: 2019-11-13 22:55:00 +0300
 tag: [Ruby, Rails, Programing, interview]
 ---
 不得不說5倍紅寶石真的是佛心事業（良心已經不足以形容），
@@ -57,7 +57,7 @@ tag: [Ruby, Rails, Programing, interview]
 
 07.想做什麼side project？對於side project的時程規劃
 
-08.說明Model裡和Controller裡的程式碼
+08.說明Shema、Model裡和Controller裡的程式碼
 
 09.覺得自己贏過其他同學的點
 
