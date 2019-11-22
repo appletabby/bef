@@ -2,7 +2,7 @@
 layout: post
 title: "學習程式效果不彰的原因"
 img: indonesia.jpg # Add image post (optional)
-date: 2019-11-13 22:55:00 +0300
+date: 2019-11-15 22:55:00 +0300
 tag: [Chat, Programing, Youtuber, Learning]
 ---
 最近滿常看一位日本工程師的youtube頻道[雑食系エンジニアTV](https://www.youtube.com/channel/UC_HLK-ksslL-Z_2wiIZDlMg)，
